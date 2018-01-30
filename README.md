@@ -1,4 +1,4 @@
-### Theoretical White Paper. Version 1.0.5 - 12/15/2017
+### Theoretical White Paper. Version 1.0.6 - 01/30/2018
 
 # Meet Genecoin: the Bioeconomy Currency
 
@@ -182,16 +182,6 @@ We are confident we will be able to develop the following projects to kickstart 
 
 ---
 
-## Genecoin technology
-
-Because we are not coders ourselves, we decided to build Genecoin on [The Proof platform](https://www.proofsuite.com/), a using the Ethereum blockchain, created to apply the concept to real estate and other real world assets, that we realized it could be applied to genome research too.
-
-We also believe that the Proof vision of a decentralized internet is very interesting. They allow you to easily create and ICO, have a exchange for the currency and a marketplace that will allow users to immediately buy and sell services in Genecoin.
-
-Even though Proof has its own blockchain fork, Genecoin was created in Ethereum, which makes it easy to be stored in any Ethereum wallet and exchanged in any major exchange. At the ICO time, Genecoins will be purchased in Proof&#39;s and EtherDelta&#39;s exchanges.
-
-To guarantee that the IT development of Genecoin&#39;s ecosystem will not be uncovered, the founders have partnered with a company with more than 20 years of system&#39;s development trackback.
-
 ## Genecoin business model
 
 Guarantee Liquidity and progressive discount rate - a positive entropy financial model
@@ -220,19 +210,11 @@ In 6 years, with only 0.5% of the world&#39;s scientific community operating in 
 
 ## Genecoin Tokens
 
-One hundred million (100,000,000) tokens have been issued in the Ethereum platform under contract 0xe47a28f1c39fDfD3ec1613e7C3dc2b5e0f152A93
-
-The number of token available can be checked here [http://www.proofsuite.com/tokenbalance/](http://www.proofsuite.com/tokenbalance/) using the creators ethereum address: 0xc013c60ef41f9f59e1b34826ae1c1e62c4f2b6bf
-
-Founders will hold 10% of the Tokens and other 15% of tokens will be used for developing and  distributed among supporters.
-
-Genecoin symbol will be GNC.
+One hundred million (100,000,000) tokens have been issued in the Ethereum platform. Founders will hold 10% of the Tokens and other 15% of tokens will be used for developing and  distributed among supporters. Genecoin symbol will be GEN.
 
 ## Genecoin ICO and Exchange
 
-[The Initial Coin Offer (ICO) is set for](http://www.proofsuite.com/i/3tq1tvVeHV#) [March](http://www.proofsuite.com/i/3tq1tvVeHV#)1st at the Proof platform.
-
-Prices will be set in Ethereum since only Ethereum can be stored in the smart-contract to guarantee liquidity.
+Prices will be set in Ethereum and be stored in the smart-contract to guarantee liquidity.
 
 You Must have a wallet to acquire Genecoins. MyEtherWallet or MetaMask will work perfectly. You can also download a [Proof wallet](https://play.google.com/store/apps/details?id=com.proofsuite.proof&amp;hl=en) (Android only) to receive your tokens.
 
